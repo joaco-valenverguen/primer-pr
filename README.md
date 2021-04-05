@@ -12,7 +12,9 @@ Para enviar un pull request debes seguir los pasos listados a continuación:
 * Subir tu rama a tu fork remoto.
    * ```git add . ```
    * ```git commit -m "mi primer pr" ```
-   * ```git pull origin master ``` 
+   * ```git pull origin main ```
+   * ```git push origin main ```
+      * Te pedirá logearte en github.
 * Realizar el Pull Request
    * Ve a tu fork en github
    * Luego a pull requests
